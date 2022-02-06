@@ -19,6 +19,11 @@
       "text": "my new data",
       "rating": 8,
       "id": 4
+    },
+    {
+      "text": "This is a new test",
+      "rating": 9,
+      "id": 5
     }
   ]
 }
