@@ -16,14 +16,9 @@
       "rating": 7
     },
     {
-      "text": "my new data",
-      "rating": 8,
+      "text": "my new data updated",
+      "rating": 7,
       "id": 4
-    },
-    {
-      "text": "This is a new test",
-      "rating": 9,
-      "id": 5
     }
   ]
 }
